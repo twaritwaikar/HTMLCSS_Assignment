@@ -1,0 +1,29 @@
+1. read dhawal sir's blog on shifting from ubuntu to linux
+2. sublime, epsilon looking logo, 
+3. Hypertext = text that links with itself
+4. 
+
+<!Doctype html> //tells browser to process as html file
+<html>
+    <head>
+    </head>
+    <body>
+    </body>
+5. CSS= Cascading Style Sheets
+6. <br/> - Break Ruler
+7. <hr/> - Horizontal Ruler
+8. Reserved characters
+// Escape sequence equivalent
+&name
+et cetera
+..
+.
+.
+.
+9. > selects only immediate children elements
+8. font-weight value ranges from 100 to 800 or 700
+9. Checkout flexbox
+10. DuckDuckGo
+11. Make AboutMe page
+12. mozilla.org
+13. 
